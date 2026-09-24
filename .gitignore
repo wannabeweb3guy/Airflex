@@ -159,3 +159,6 @@ frontend/public/workbox-*.js
 frontend/public/worker-*.js
 frontend/public/swe-worker-*.js
 frontend/public/fallback-*.js
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
